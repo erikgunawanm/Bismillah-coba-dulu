@@ -1,0 +1,4 @@
+[theme]
+base="dark"
+backgroundColor="#3f3f43"
+font = "serif"
